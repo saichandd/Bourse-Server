@@ -6,12 +6,12 @@ A multithreaded exchange server in C which can be accessed concurrently by a col
 
 Instructions to use run after cloning
 
-## Running
-
-Run the make file
-
-### Softwares
+### Dependencies
 
 ```
 C99
 ```
+
+## Usage
+
+Run the make file
